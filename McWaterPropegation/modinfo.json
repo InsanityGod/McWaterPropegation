@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "mcwaterpropegation",
+  "name": "MC Water Propegation",
+  "authors": [
+    "TheInsanityGod"
+  ],
+  "description": "Makes it so that water propegates with only 2 source blocks (like in minecraft)",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  }
+}

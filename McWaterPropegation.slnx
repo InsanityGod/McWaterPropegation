@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="McWaterPropegation/McWaterPropegation.csproj" />
+  <Project Path="ZZCakeBuild/CakeBuild.csproj" />
+</Solution>
